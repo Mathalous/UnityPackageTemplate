@@ -1,0 +1,12 @@
+{
+  "name": "com.google.sites-view-mathalous.package-name",
+  "version": "1.1.1",
+  "unity": "2021.1",
+  "description": "A package needing a description",
+  "displayName": "Package Template",
+  "author": {
+    "email": "Dev.Mathalous@gmail.com",
+    "name": "Mathalous"
+  },
+  "hideInEditor": false
+}
